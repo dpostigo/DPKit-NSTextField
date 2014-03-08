@@ -32,7 +32,7 @@
         NSSize textSize = [self cellSizeForBounds: cellFrame];
 
         CGFloat textY = NSMidY(backgroundRect) - (textSize.height / 2.0) - 1.0;
-        NSRect textRect = NSMakeRect(backgroundRect.origin.x, textY, backgroundRect.size.width, textSize.height);
+        // NSRect textRect = NSMakeRect(backgroundRect.origin.x, textY, backgroundRect.size.width, textSize.height);
 
         //        textRect.origin.x += insets.left;
         //        textRect.origin.y += insets.top;
