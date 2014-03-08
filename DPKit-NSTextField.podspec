@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "DPKit-NSTextField"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "DPKit-NSTextField"
   s.homepage     = "http://dpostigo.com"
   s.license      = 'BSD'
